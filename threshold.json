@@ -1,0 +1,12 @@
+{
+  "threshold": 0.4631,
+  "model_name": "fraud-detector",
+  "model_type": "RandomForest",
+  "strategy": "class_weight",
+  "validation_pr_auc": 0.85954,
+  "validation_total_cost": 623.56,
+  "test_pr_auc": 0.76635,
+  "test_total_cost": 2597.4,
+  "test_recall": 0.75,
+  "test_precision": 0.86667
+}
